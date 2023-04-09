@@ -1,1 +1,3 @@
-hi prashant how are you
+=
+hey prashant how are you
+>>>>>>> newbranch
